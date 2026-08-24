@@ -1,16 +1,13 @@
-Project: Customer Churn Analysis
+# Customer Churn Analysis - Rohit Thul
 
-Tools Used:
-- Python (Pandas, Sklearn)
-- Tableau
-
-Steps:
-1. Raw data cleaning using Python
-2. Feature engineering & model
-3. Exported clean dataset to CSV
-4. Built interactive dashboard in Tableau
+- End-to-end churn analysis using Python (Pandas, Sklearn) & Tableau
+- Tools: Python, Tableau, Feature Engineering
+- Steps: Data cleaning → Feature engineering → Export clean CSV → Tableau Dashboard
 
 Key Insights:
 - Month-to-month customers have highest churn
-- Long-term contracts reduce churn
+- Long-term contracts reduce churn  
 - Fiber optic users show higher churn risk
+
+Live: Tableau dashboard + Python model
+#churn_analysis #business_analytics
